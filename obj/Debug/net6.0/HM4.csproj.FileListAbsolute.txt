@@ -1,0 +1,15 @@
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.csproj.AssemblyReference.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.GeneratedMSBuildEditorConfig.editorconfig
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.AssemblyInfoInputs.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.AssemblyInfo.cs
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.csproj.CoreCompileInputs.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\bin\Debug\net6.0\HM4.exe
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\bin\Debug\net6.0\HM4.deps.json
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\bin\Debug\net6.0\HM4.runtimeconfig.json
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\bin\Debug\net6.0\HM4.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\bin\Debug\net6.0\HM4.pdb
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\refint\HM4.dll
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.pdb
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\HM4.genruntimeconfig.cache
+F:\GeekBrains\GitC#Sem\Homeworks\HM4\obj\Debug\net6.0\ref\HM4.dll
